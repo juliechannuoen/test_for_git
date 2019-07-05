@@ -4,6 +4,10 @@ Held at the Fawkes Training Room on 5th November from 13:00 to 17:00
 ### Trainers
 Ash.    
 Mark.   
+## Directions 
+
+Bioinformatics Training Room, Craik-Marshall Building, Downing Site
+The training room is located on the first floor of the Craik-Marshall building. 
 
 ## Topics
 Headings   
